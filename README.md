@@ -8,3 +8,7 @@ Domine a biblioteca mais popular do mercado parte 1
 - Reiniciando o Jogo;
 - Funções que Auxiliam os estilos;
 - Criando e Manipulando elementos com jQuery.
+
+Avance na biblioteca mais popular do mercado parte 2
+
+- Animações com jQuery;

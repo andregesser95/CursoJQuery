@@ -68,20 +68,6 @@ function inicializaMarcadores() {
     });
 }
 
-function inserePlacar() {
-    var corpoTabela = $(".placar").find("tbody");
-    var usuario = "André";
-    var numPalavras = $("#contador-palavras").text();
-
-    var linha = "<tr>" +
-                    "<td>" + usuario + "</td>" +
-                    "<td>" + numPalavras + "</td>" +
-                "</tr>";
-    
-    corpoTabela.prepend(linha);
-
-}
-
 function reiniciarJogo() {
     campo.attr("disabled", false);
     campo.val("");
